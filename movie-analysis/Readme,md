@@ -1,0 +1,21 @@
+
+## Technologies Used
+- Python
+- Git
+- GitHub
+
+## Features
+- Displays movie names and ratings
+- Calculates average rating
+- Finds the highest-rated movie
+
+## How to Run
+1. Install Python.
+2. Download or clone this project.
+3. Open the terminal in the project folder.
+4. Run:
+
+python analysis.py
+
+## Created By
+Snehal
